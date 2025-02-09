@@ -26,3 +26,7 @@ chmod +x kroketaimar.sh
 bash kroketaimar.sh
 
 Contains the katana and anew tools
+![aimar](https://github.com/user-attachments/assets/4544655e-8dc1-4e40-8ad2-2a9a6f1578cc)
+![aimar3](https://github.com/user-attachments/assets/9fdc9d5e-1c95-40ed-8c44-0eda74db87f0)
+![aimar3](https://github.com/user-attachments/assets/eba80340-313f-4ab6-8c3b-84f689587150)
+
