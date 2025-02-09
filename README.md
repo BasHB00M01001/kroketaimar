@@ -9,7 +9,7 @@ Install:
 
 git clone https://github.com/BasHB00M01001/kroketaimar
 
-cd kroketaima
+cd kroketaimar
 
 pip install uro
 
