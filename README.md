@@ -1,4 +1,4 @@
-# kʀokeᴛⒶiᴍⒶʀᴛxoso is a tool effective way to crawl get interesting urls for sqli
+# kʀokeᴛⒶiᴍⒶʀᴛxosoɴᴅo is a tool effective way to crawl get interesting urls for sqli
 
 #Discover interesting urls of a website or domain, admin login, confi, api, css,png,svg,jpg,woff2,jpeg,gif,svg
 ----------------------------------------------------------------------------------------------------------------------
