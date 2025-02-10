@@ -1,10 +1,10 @@
 # kroketaimar
 
-Effective way to crawl get interesting urls
+Effective way to crawl get interesting urls for sqli
 
 Discover interesting urls of a website or domain, admin login, confi, api, css,png,svg,jpg,woff2,jpeg,gif,svg
 
-Generates a txt file with potential sqli vulnerabilities in output directory
+Generates a txt file with potential sqli vulnerabilities in output directory and  output.txt with interesting links .
 
 Install:
 git clone https://github.com/BasHB00M01001/kroketaimar
