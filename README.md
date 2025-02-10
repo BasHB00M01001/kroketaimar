@@ -6,23 +6,23 @@
 ----------------------------------------------------------------------------------------------------------------------
 #Install:
 
-git clone https://github.com/BasHB00M01001/kroketaimar
+-git clone https://github.com/BasHB00M01001/kroketaimar
 
-cd kroketaimar
+-cd kroketaimar
 
-pip install uro
+-pip install uro
 
-cd kroketaimar/tools
+-cd kroketaimar/tools
 
-unzip katana_1.1.2_linux_amd64.zip
+-unzip katana_1.1.2_linux_amd64.zip
 
-tar -xf anew-linux-amd64-0.1.1.tgz
+-tar -xf anew-linux-amd64-0.1.1.tgz
 
-cd ../
+-cd ../
 
-chmod +x kroketaimar.sh
+-chmod +x kroketaimar.sh
 
-bash kroketaimar.sh
+-bash kroketaimar.sh
 
 Contains the katana and anew tools
 -----------------------------------------------------------------------------------------
