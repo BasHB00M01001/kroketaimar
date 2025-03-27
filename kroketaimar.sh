@@ -36,9 +36,9 @@ echo "Normalized URL being used: $website_url"
 output_dir="output"
 mkdir -p "$output_dir"
 
-echo "$website_url" | tools/./katana  -ps -pss waybackarchive,commoncrawl,alienvault -f qurl | uro > "$output_dir/output.txt"
+echo "$website_url" | katana  -ps -pss waybackarchive,commoncrawl,alienvault -f qurl | uro > "$output_dir/output.txt"
 
-tools/./katana -u "$website_url" -silent -d 6  — include-keywords “admin,login,config,api” -c 10 -rl 25 -jc -xhr -kf -fx -fx dn -f qurl -ef woff,css,png,svg,jpg,woff2,jpeg,gif,svg  | uro | tools/./anew "$output_dir/output.txt"
+katana -u "$website_url" -silent -d 6  — include-keywords “admin,login,config,api” -c 10 -rl 25 -jc -xhr -kf -fx -fx dn -f qurl -ef woff,css,png,svg,jpg,woff2,jpeg,gif,svg  | uro | anew "$output_dir/output.txt"
 
 echo "Filtering URLs for potential SQLi endpoints..."
 
