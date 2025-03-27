@@ -12,17 +12,13 @@
 
 - pip install uro
 
-- cd kroketaimar/tools
-
 - unzip katana_1.1.2_linux_amd64.zip
-
-- tar -xf anew-linux-amd64-0.1.1.tgz
-
-- cd ../
 
 - chmod +x kroketaimar.sh
 
 - bash kroketaimar.sh
+
+  Make sure uro is installed
 
 Contains the katana and anew tools
 -----------------------------------------------------------------------------------------
